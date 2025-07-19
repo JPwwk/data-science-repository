@@ -1,0 +1,41 @@
+# What Contributes to Social Media Going Viral
+
+This project analyzes post engagement indicators that influence post longevity and reach across platforms. Using `pandas`, `numpy`, `matplotlib`, and `seaborn`, it explores post metrics via histograms and descriptive statistics.
+
+## 📊 Objective
+
+To identify key engagement metrics (e.g., likes, retweets, post timing) that drive viral behavior.
+
+## 📁 Dataset
+
+- Social media post dataset with engagement indicators
+- Included fields: post time, impressions, likes, shares, platform
+- Cleaned and explored using Jupyter Notebook
+
+## 🛠️ Tools & Libraries
+
+- `pandas` for data wrangling  
+- `numpy` for numeric operations  
+- `matplotlib` and `seaborn` for visualizations
+
+## 📈 Techniques
+
+- Histogram analysis of reach, likes, and comments
+- Descriptive statistics: mean, median, range, outlier detection
+- Filtering for outliers and high-performing posts
+
+## 🧠 Key Findings
+
+- High-impact posts share common timing windows
+- Likes and impressions follow a non-linear pattern
+- Outliers disproportionately skew averages, requiring trimming
+
+## 🔗 How to Run
+
+1. Open the notebook: `What_contributes_to_social_media_Going_Viral.ipynb`
+2. Run all cells in order
+3. Visualizations and results will appear inline
+
+## 📌 Status
+
+Project complete. No additional tuning or modeling applied — focused on EDA and trend isolation.
