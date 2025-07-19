@@ -1,0 +1,39 @@
+# Employee Attrition Analysis
+
+This classification model investigates predictors of employee attrition and retention using a Random Forest Classifier. The project identifies the most influential features driving turnover.
+
+## 📊 Objective
+
+To predict whether an employee is likely to leave based on organizational and demographic variables.
+
+## 📁 Dataset
+
+- Synthetic HR dataset with attributes like:
+  - Age, department, monthly income, job role
+  - Satisfaction level, promotion history, and more
+
+## 🛠️ Tools & Libraries
+
+- `pandas` for data processing
+- `scikit-learn` for modeling and metrics
+- `matplotlib` and `seaborn` for visualization
+
+## 🧪 Key Techniques
+
+- Data cleaning and encoding categorical variables
+- Train/test split and feature scaling
+- Random Forest Classifier model training
+- Feature importance extraction
+- Confusion matrix, accuracy, precision, recall
+
+## 📈 Key Outputs
+
+- Visualized feature importances
+- Attrition prediction model
+- Performance metrics
+
+## 🧭 How to Run
+
+1. Load the dataset and notebook in Jupyter or VS Code.
+2. Run all cells in order.
+3. Review the performance section and feature importances at the end.
