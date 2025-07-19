@@ -1,0 +1,77 @@
+# Justin Pizzoferrato – Data Science Portfolio
+
+Welcome to my data science portfolio, created as part of my graduate work at Bellevue University. This repository includes 10 applied analytics and machine learning projects covering social, environmental, financial, and behavioral topics.
+
+## 🎯 Objective
+
+To demonstrate mastery in data science through real-world projects that apply predictive modeling, data visualization, scenario testing, and clustering. Each project is presented with supporting code, explanations, and embedded outputs.
+
+---
+
+## 📂 Projects Included
+
+1. **What Contributes to Social Media Going Viral**  
+   Descriptive analysis of post reach and lifespan on social media using visual trends, histograms, and engagement signals.  
+
+2. **Employee Attrition Analysis**  
+   Classification model to predict employee turnover using Random Forests and key HR metrics like promotion history and satisfaction level.  
+
+3. **Childcare Cost Impact**  
+   State-level affordability modeling using merged datasets, burden segmentation, and choropleths.  
+
+4. **Climate Dataset Exploration**  
+   Clustering and PCA to identify patterns in FEMA-declared disaster exposure and socioeconomic vulnerability.  
+
+5. **Rerate Impact Analysis Model**  
+   Monte Carlo simulation of refund overpayment risk in state-by-state insurance rate rollouts.  
+
+6. **Predicting Impact of Netflix Shows**  
+   Weekly model forecasting the drivers of top Netflix show popularity using scatterplots and runtime analysis.  
+
+7. **Climate Impacts on U.S. Stocks**  
+   Linking NOAA disaster declarations with market performance using ticker alignment and SQL joins.  
+
+8. **Childcare Affordability in the U.S.**  
+   Analysis of equity burden across income levels and time-based affordability thresholds.  
+
+9. **Movie Recommendation Model**  
+   Lightweight similarity engine using string matching and difflib to return movie suggestions.  
+
+10. **Married Status Regression Model**  
+    Logistic model predicting likelihood of marital status based on demographic variables using statsmodels.
+
+---
+
+## 📦 How to Use This Repository
+
+- Open any `.ipynb` file to view code and analysis in Jupyter Notebook format.
+- Each notebook includes markdown explanations and embedded charts.
+- Two projects include detailed `README_project.md` files with instructions, objectives, datasets, and output samples.
+- The folder structure is organized by project title for easy navigation.
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, geopandas, SQLite
+- Jupyter Notebook, VS Code
+- Data: NOAA, FEMA, CDC SVI, Census QuickFacts, KFF, Netflix, HR analytics, insurance refund reports
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Predictive modeling
+- Classification and regression
+- PCA and clustering
+- Monte Carlo simulation
+- Time series forecasting
+- Geospatial visualization
+- Data storytelling for executive audiences
+
+---
+
+## 🔗 Contact
+
+Feel free to connect with me on GitHub: [JPwwk](https://github.com/JPwwk)  
+This portfolio reflects ongoing learning and applied skill development in data science.
