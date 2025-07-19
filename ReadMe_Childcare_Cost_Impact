@@ -1,0 +1,38 @@
+# Childcare Cost Impact
+
+This project explores how childcare costs affect U.S. families by income level, using state-level datasets. The analysis highlights affordability challenges and burden disparities.
+
+## 📊 Objective
+
+To evaluate the financial burden of childcare across income groups and geographic locations.
+
+## 📁 Dataset
+
+- U.S. Department of Labor National Database of Childcare Prices (2022)
+- Median household income by state
+- Family composition data
+
+## 🛠️ Tools & Libraries
+
+- `pandas` for data wrangling
+- `matplotlib`, `seaborn` for plots
+- `geopandas` for geospatial mapping
+
+## 🧪 Key Techniques
+
+- Weighted and unweighted average cost analysis
+- Affordability ratio calculation
+- Time series visualization
+- Choropleth maps of childcare burden by state
+
+## 📈 Key Outputs
+
+- Trend charts by income level
+- Affordability disparity graphs
+- U.S. choropleths of childcare burden
+
+## 🧭 How to Run
+
+1. Open the notebook in Jupyter or VS Code.
+2. Run cells in order to clean, analyze, and visualize.
+3. Geospatial plots will render state-level burden maps.
