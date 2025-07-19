@@ -1,0 +1,40 @@
+# Employee Attrition Analysis
+
+This classification model investigates predictors of employee attrition and retention using a Random Forest Classifier. Key libraries include `pandas`, `scikit-learn`, `seaborn`, and `matplotlib`.
+
+## 🎯 Objective
+
+To predict which employees are most likely to leave based on satisfaction, salary, evaluation score, and time spent at the company.
+
+## 📁 Dataset
+
+- HR Analytics dataset with fields such as: satisfaction level, number of projects, average monthly hours, salary level, and whether the employee left
+- Cleaned for duplicates and missing values
+
+## 🛠️ Tools & Libraries
+
+- `pandas`, `numpy` for data handling  
+- `matplotlib`, `seaborn` for visualization  
+- `scikit-learn` for modeling (Random Forest, train/test split, accuracy metrics)
+
+## 📈 Techniques
+
+- Exploratory Data Analysis (EDA)
+- Correlation heatmaps and histograms
+- RandomForestClassifier with accuracy and feature importance evaluation
+
+## 🧠 Key Findings
+
+- Employees with low satisfaction and high workload are most at risk
+- Time at company and number of projects strongly influence attrition
+- Salary alone is not a strong predictor
+
+## 🔗 How to Run
+
+1. Open `Employee_Attrition_Analysis.ipynb`
+2. Run all cells in order
+3. Model accuracy and confusion matrix appear at the bottom
+
+## 📌 Status
+
+Complete. Model performed well with high accuracy and interpretable features.
