@@ -8,38 +8,23 @@ To demonstrate mastery in data science through real-world projects that apply pr
 
 ---
 
-## 📂 Projects Included
+## Featured Projects
 
-1. **What Contributes to Social Media Going Viral**  
-   Descriptive analysis of post reach and lifespan on social media using visual trends, histograms, and engagement signals.  
+| Project | Description |
+|---|---|
+| [Rent & Eviction Analysis](https://github.com/JPwwk/data-science-repository/tree/main/rent-eviction-analysis) | Predicts monthly eviction filings using rent volatility, pre-pandemic baselines, and unemployment; highlights high-risk ZIP clusters for targeted intervention. |
+| [Childcare Affordability](https://github.com/JPwwk/data-science-repository/tree/main/childcare-affordability) | Evaluates how childcare costs vary by income and state; builds affordability metrics and visuals. |
+| [Childcare Cost](https://github.com/JPwwk/data-science-repository/tree/main/childcare-cost) | Cleans/aggregates childcare price data; compares levels by region and time. |
+| [Climate Dataset Exploration](https://github.com/JPwwk/data-science-repository/tree/main/climate-dataset) | Multidimensional disaster risk modeling using clustering and socioeconomic overlays. |
+| [Climate vs. Stocks](https://github.com/JPwwk/data-science-repository/tree/main/climate-vs-stocks) | Tests relationships between climate indicators and market performance with time-series methods. |
+| [Employee Attrition](https://github.com/JPwwk/data-science-repository/tree/main/employee-attrition) | Classifies churn risk and identifies top retention drivers using ML explainability. |
+| [Movie Recommendation](https://github.com/JPwwk/data-science-repository/tree/main/movie-recommendation) | Recommender system using similarity and collaborative filtering techniques. |
+| [Netflix Popularity Analysis](https://github.com/JPwwk/data-science-repository/tree/main/netflix-prediction) | Identifies features that drive show longevity and engagement; builds predictive baseline. |
+| [Social Media Virality](https://github.com/JPwwk/data-science-repository/tree/main/social-media-virality) | Models post performance; feature engineering and A/B insights for growth tactics. |
+| [Water Scarcity Forecasting](https://github.com/JPwwk/data-science-repository/tree/main/water-scarcity) | Scenario forecasting of urban water use based on risk and equity factors. |
 
-2. **Employee Attrition Analysis**  
-   Classification model to predict employee turnover using Random Forests and key HR metrics like promotion history and satisfaction level.  
-
-3. **Childcare Cost Impact**  
-   State-level affordability modeling using merged datasets, burden segmentation, and choropleths.  
-
-4. **Climate Dataset Exploration**  
-   Clustering and PCA to identify patterns in FEMA-declared disaster exposure and socioeconomic vulnerability.  
-
-5. **Rerate Impact Analysis Model**  
-   Monte Carlo simulation of refund overpayment risk in state-by-state insurance rate rollouts.  
-
-6. **Predicting Impact of Netflix Shows**  
-   Weekly model forecasting the drivers of top Netflix show popularity using scatterplots and runtime analysis.  
-
-7. **Climate Impacts on U.S. Stocks**  
-   Linking NOAA disaster declarations with market performance using ticker alignment and SQL joins.  
-
-8. **Childcare Affordability in the U.S.**  
-   Analysis of equity burden across income levels and time-based affordability thresholds.  
-
-9. **Movie Recommendation Model**  
-   Lightweight similarity engine using string matching and difflib to return movie suggestions.  
-
-10. **Married Status Regression Model**  
-    Logistic model predicting likelihood of marital status based on demographic variables using statsmodels.
-
+### View All Projects
+- Full repository: [data-science-repository](https://github.com/JPwwk/data-science-repository)
 ---
 
 ## 📦 How to Use This Repository
